@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @sachinnaik578
 - 👀 I’m interested in coding
 - 🌱 I’m currently learning python language
-- 💞️ I’m looking to collaborate on AL/MLA
+- 💞️ I’m looking to collaborate on AL/ML
 - 📫 How to reach me sachinnaik4292@gmail.com
 
 <!---
